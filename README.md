@@ -4,9 +4,9 @@ A minimal, easy-to-customize developer portfolio template built with [Astro](htt
 ## Demo
 Check out a real-world example: [devidev.io](https://devidev.io)
 
-![Astro Developer Portfolio Template - About Preview | devi|dev|io](assets/preview-about.png)
+![Astro Developer Portfolio Template - About Preview | DimasWahyuUtomo](assets/preview-about.png)
 
-![Astro Developer Portfolio Template - Projects Preview | devi|dev|io](assets/preview-projects.png)
+![Astro Developer Portfolio Template - Projects Preview | DimasWahyuUtomo](assets/preview-projects.png)
 
 ## Features
 - No bundled JavaScript – optimized for performance and speed.
