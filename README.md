@@ -1,13 +1,6 @@
 # Astro Developer Portfolio Template
 A minimal, easy-to-customize developer portfolio template built with [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/). No JavaScript in final build.
 
-## Demo
-Check out a real-world example: [devidev.io](https://devidev.io)
-
-![Astro Developer Portfolio Template - About Preview | DimasWahyuUtomo](assets/preview-about.png)
-
-![Astro Developer Portfolio Template - Projects Preview | DimasWahyuUtomo](assets/preview-projects.png)
-
 ## Features
 - No bundled JavaScript – optimized for performance and speed.
 - Fully responsive – mobile-friendly and adaptable across all devices.
