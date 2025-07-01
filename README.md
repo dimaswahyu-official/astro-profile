@@ -15,24 +15,6 @@ A minimal, easy-to-customize developer portfolio template built with [Astro](htt
 - [TailwindCSS](https://tailwindcss.com/)
 - [Shiki](https://github.com/shikijs/shiki)
 
-## Getting Started
-
-```sh
-# 1. Clone the repository
-git clone https://github.com/devidevio/astro-developer-portfolio .
-
-# 2. Install dependencies
-npm install
-
-# 3. Run the development server
-npm run dev
-
-# 4. Build for production
-npm run build
-
-# Deploy the contents of the `./dist` folder wherever you like.
-```
-
 ## Customization
 ### Site & Domain Configuration
 - Modify `astro.config.mjs` to update your `site` settings, including metadata for SEO.
