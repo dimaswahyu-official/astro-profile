@@ -1,10 +1,6 @@
 ---
 import '../styles/global.scss';
 
-// Base domain URL without trailing slash
-const domainBaseURL = 'https://devidev.io';
-const ogImageUrl    = 'https://devidev.io/img/meta.png';
-
 // Website publisher & region
 const authorPublisher   = 'Dimas Wahyu Utomo';
 const geoRegion         = 'DE-BY';
@@ -18,17 +14,14 @@ const seoKeywords       = 'Full Stack Developer, Dejan Vi, Munich, Papersend, Qi
 const twitter = {
     title:          seoTitle,
     description:    seoDescription,
-    image:          ogImageUrl,
-    site:           '@devidev_io',
-    creator:        '@devidev_io'
+    site:           '',
+    creator:        ''
 };
 
 // Open graph data
 const openGraph = {
     title:          seoTitle,
     description:    seoDescription,
-    url:            domainBaseURL,
-    image:          ogImageUrl,
     type:           'website',
     locale:         'en_US',
     siteName:       'Dimas Wahyu Utomo'
